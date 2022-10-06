@@ -1,0 +1,11 @@
+/* styles.css */
+.app-container {
+    width: 800px;
+    height: 480px;
+    border-style: solid;
+}
+
+body {
+    margin: 0;
+}
+/* Add styles here to customize the appearance of your app */
